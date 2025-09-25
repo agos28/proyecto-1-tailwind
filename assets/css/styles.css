@@ -238,29 +238,10 @@ body#wings{
     body#hmhas{
         background: #353347;
     }
-    .color-principalf4f4f4{
-        color:#0C121A;
+    body#clancy{
+        background: #953931;
     }
-    #album1{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
-    }
-    #info-container{
-        display: flex;
-    }
-    .portada{
-        margin-top: 2em;
-        width: 100%;
-        height: auto;
-    }
-
-    .marginT{
-        margin-top: 1.5em;
-    }
-
-    .nav{
-        margin: 0;
+    body#wings{
+        background: #353347;
     }
   }
