@@ -184,7 +184,7 @@ table {
 
 /*margins*/
 .marginT-05{
-    margin-top: 0.5em;
+    margin-top: 0.5em;/*mt-4*/
 }
 
 .marginT{
@@ -233,25 +233,7 @@ body#wings{
     height: 25em;
 }
 
-
 /*botones artista y album*/
-
-button{
-    font-family: "Roboto Condensed", sans-serif;
-    font-weight: 800;
-    margin: 0;
-    padding: 0.5em 3em;
-    font-size: 1em;
-    cursor: pointer;
-    border: none;
-    background: none;
-}
-button:hover{
-    color: #F4F4F4;
-    background: #0C121A;
-    border: none;
-    border-radius: 5em;
-}
 
 /*canciones*/
 .cancionesalb1 {
