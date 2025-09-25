@@ -51,8 +51,6 @@ table {
   
 }
 
-
-
 /*termina el reset*/
 
 /*fuentes*/
@@ -122,7 +120,7 @@ body#wings{
     height: 25em;
 }
 
-/*canciones*/
+/*canciones, son agregadas desde el js*/
 .cancionesalb1 {
     margin-top: 0.5em;
     width: 70%;
@@ -214,17 +212,11 @@ body#wings{
     background-color: #f4f4f43c;
 }
 
-.estiloalbum3{
-    padding-left: 1em;
-}
 
 
 /*botones musica*/
 
-.icono-musica{
-    cursor: pointer;
-}
-
+/*intente aplicar la clase "invisible" de tailwind pero al hacer click se movia el icono y no supe como solucionarlo :' */
 .hide{
     display: none;
 }
